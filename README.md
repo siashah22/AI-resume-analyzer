@@ -36,8 +36,9 @@ An AI-powered web application that analyzes resumes and provides intelligent fee
 
 ---
 
-## Screenshots 
+## Output 
 
+<img width="1893" height="804" alt="Image" src="https://github.com/user-attachments/assets/4df9c5b0-ad0a-4463-9603-821f99bb0d58" />
 
 ---
 
